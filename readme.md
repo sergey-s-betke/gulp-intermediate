@@ -1,5 +1,9 @@
 # gulp-intermediate [![status](https://api.travis-ci.org/robwierzbowski/gulp-intermediate.svg)](https://travis-ci.org/robwierzbowski/gulp-intermediate)&nbsp;[![Coverage Status](https://coveralls.io/repos/github/robwierzbowski/gulp-intermediate/badge.svg)](https://coveralls.io/github/robwierzbowski/gulp-intermediate)&nbsp;[![dependencies](https://david-dm.org/robwierzbowski/gulp-intermediate.svg)](https://david-dm.org/robwierzbowski/gulp-intermediate)
 
+> [!NOTE]
+> This repository has been archived by the owner on Jan 11, 2023. It is now read-only.
+> See compatible package: [gulp-intermediate2](https://github.com/IT-Service-NPM/gulp-intermediate2)
+
 > A gulp helper for tools that need files on disk.
 
 Some tools require access to files on disk instead of working with `stdin` and `stdout` (e.g., [Jekyll](http://jekyllrb.com/), [Ruby Sass](http://sass-lang.com/)). `gulp-intermediate` is a convenience plugin that writes the current vinyl stream to a temporary directory, lets you run commands on the file system, and pushes the results back into the pipe.
