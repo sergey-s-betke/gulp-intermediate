@@ -2,7 +2,8 @@
 
 > [!NOTE]
 > This repository has been archived by the owner on Jan 11, 2023. It is now read-only.
-> See compatible package: [gulp-intermediate2](https://github.com/IT-Service-NPM/gulp-intermediate2)
+> See compatible package: [gulp-intermediate2](https://www.npmjs.com/package/gulp-intermediate2),
+> [gulp-intermediate2 repository](https://github.com/IT-Service-NPM/gulp-intermediate2),
 
 > A gulp helper for tools that need files on disk.
 
